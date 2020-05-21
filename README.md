@@ -54,3 +54,5 @@
 ><p>"As a site owner, I want to inform and educate my users about how important it is to have female playable characters in video games. My love for Aloy and the game 'Horizon Zero Dawn'  will make the user aware about the vast differences in appearances and storylines regarding female playable characters and particulary why Aloy is the kick-ass heroin we all need!"</p>
 
 ><p>"I want to be able to connect with my users if they have any questions or would like to talk about adding additional content"</P>
+
+### User Requirements and Expectations ###
