@@ -92,6 +92,8 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 * For body background: White #ffffff;
 * For additional backgrounds: Desert Storm #eae8e5;
 
+![Color Scheme](/wireframes/Color-Scheme.png)
+
 **Styling**
 
 Styling (look and feel) are based on the styling Guerilla Games have used for the Horizon Zero Dawn website.
@@ -125,4 +127,4 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 ## Features ##
 ---
-    
+
