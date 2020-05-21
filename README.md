@@ -82,3 +82,6 @@ I picked [Quicksand](https://fonts.google.com/specimen/Quicksand?category=Sans+S
 
 Icons used where provided by [Font Awesome](https://fontawesome.com/), used in moderation and are self explanatory.
 
+**Colours**
+
+
