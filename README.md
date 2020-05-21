@@ -38,4 +38,6 @@
     * Send an email to the site owner.
     * Contact the site owner through options given with radio buttons for clarification on why a user contacts the site owner.
     * Why it is important to have 'healthy' rolemodels instead of bare-naked ladies who have no storylines of any substance.
-    
+
+### User Stories ###
+  
