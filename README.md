@@ -68,3 +68,6 @@
 * Navigation takes user to specific parts of the website.
 * Working 'Read More' buttons to avoid big lumps of clustered text.
 * Visually appealing data from external sources.
+
+### Design Choices ###
+---
