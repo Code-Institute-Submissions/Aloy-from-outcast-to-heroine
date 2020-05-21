@@ -62,3 +62,9 @@
 * Be provided with information on various locations.
 * Content displayed in a visually appealing manor.
 * Having a working contact form with radio buttons.
+
+**Expectations:**
+* Content is visually satisfying and informative.
+* Navigation takes user to specific parts of the website.
+* Working 'Read More' buttons to avoid big lumps of clustered text.
+* Visually appealing data from external sources.
