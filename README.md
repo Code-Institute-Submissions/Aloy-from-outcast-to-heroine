@@ -115,3 +115,10 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 * For **Mobile**, click [here]. (link to mockup)
 
 **Other Technologies:**
+
+* Bootstrap 4 [link](https://getbootstrap.com/)
+	* The project uses Bootstrap 4 for grids, buttons, forms.
+* Google fonts [link](https://fonts.google.com/)
+    * The project uses google fonts for additional fonts.
+* Font Awesome [link](https://fontawesome.com/)
+	* The project uses Font Awesome for icons.
