@@ -14,8 +14,7 @@
         * Icons
         * Colours
         * Styling
-        * Images
-        * Backgrounds
+        * Images and Backgrounds
 * Technologies 
 * Features 
     * Features that have been developed
