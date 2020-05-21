@@ -42,13 +42,13 @@
 
 ### User Stories ###
 
-><p>"As a user, I want an attractive and informative website so I will be educated and entertained"</p>
+* "As a user, I want an attractive and informative website so I will be educated and entertained"
 
-><p>"As a user, I want to find information about why having a female playable character in video games is very important for female rolemodels, so I can use this information for my personal goals, like speaking engagements"</p>
+* "As a user, I want to find information about why having a female playable character in video games is very important for female rolemodels, so I can use this information for my personal goals, like speaking engagements"
 
-><p>"As a user, I want to be able to contact the site owner so I can ask questions and/or suggest additional content"</p>
+* "As a user, I want to be able to contact the site owner so I can ask questions and/or suggest additional content"
 
-><p>"As I user, I want to see data about the presence of female playable characters in videogames, so I can use the data for personal goals"</p>
+* "As I user, I want to see data about the presence of female playable characters in videogames, so I can use the data for personal goals"
 
 ### Site Owner Goals ###
 
