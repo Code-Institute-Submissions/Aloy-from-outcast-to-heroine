@@ -84,4 +84,9 @@ Icons used where provided by [Font Awesome](https://fontawesome.com/), used in m
 
 **Colours**
 
+The colours that are used are mainly the colours that Horizon Zero Dawn uses. 
 
+* For body text and some titles: Martinique #37343d;
+* For some headers and titles: Cornflower Blue #5983ff;
+* For body background: White #ffffff;
+* For additional backgrounds: Desert Storm #eae8e5;
