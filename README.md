@@ -77,3 +77,6 @@ When designing this website, I looked for the designs used bij Guerilla Games an
 
 I originally intended to use the fonts that Guerilla games used as well, but found out pretty quickly that those fonts where designed specifically for them. So I looked for fonts that had as strong as a resemblance to the original fonts as possible.
 I picked [Quicksand](https://fonts.google.com/specimen/Quicksand?category=Sans+Serif&preview.text=&preview.text_type=custom&query=quick) for the headers and titels and [Raleway](https://fonts.google.com/specimen/Raleway?category=Sans+Serif&preview.text=&preview.text_type=custom&query=ralewa) for text.
+
+**Icons**
+
