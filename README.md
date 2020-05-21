@@ -71,3 +71,4 @@
 
 ### Design Choices ###
 ---
+When designing this website, I looked for the designs used bij Guerilla Games and added my personal touch. I wanted it to breath the look and feel of the [Horizon Zero Dawn](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/) website, so it feels familiar for user who know the game and at the same time I wanted to try and entice other users to wanting to play the game themselves.
