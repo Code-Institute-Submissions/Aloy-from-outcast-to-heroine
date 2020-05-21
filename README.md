@@ -95,4 +95,7 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 
 Styling (look and feel) are based on the styling Guerilla Games have used for the Horizon Zero Dawn website.
 
-**Images**
+**Images and Backgrounds**
+
+Images where taken from: 
+* Hero Image: https://a-static.besthdwallpaper.com/horizon-zero-dawn-video-game-aloy-behang-3840x2160-20617_54.jpg
