@@ -56,3 +56,9 @@
 ><p>"I want to be able to connect with my users if they have any questions or would like to talk about adding additional content"</P>
 
 ### User Requirements and Expectations ###
+
+**Requirements:**
+* Navigate the website using the navbar.
+* Be provided with information on various locations.
+* Content displayed in a visually appealing manor.
+* Having a working contact form with radio buttons.
