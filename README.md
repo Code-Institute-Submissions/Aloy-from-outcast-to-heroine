@@ -74,3 +74,6 @@
 When designing this website, I looked for the designs used bij Guerilla Games and added my personal touch. I wanted it to breath the look and feel of the [Horizon Zero Dawn](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/) website, so it feels familiar for user who know the game and at the same time I wanted to try and entice other users to wanting to play the game themselves.
 
 **Fonts**
+
+I originally intended to use the fonts that Guerilla games used as well, but found out pretty quickly that those fonts where designed specifically for them. So I looked for fonts that had as strong as a resemblance to the original fonts as possible.
+I picked [Quicksand](https://fonts.google.com/specimen/Quicksand?category=Sans+Serif&preview.text=&preview.text_type=custom&query=quick) for the headers and titels and [Raleway](https://fonts.google.com/specimen/Raleway?category=Sans+Serif&preview.text=&preview.text_type=custom&query=ralewa) for text.
