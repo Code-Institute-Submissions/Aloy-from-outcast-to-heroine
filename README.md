@@ -99,3 +99,7 @@ Styling (look and feel) are based on the styling Guerilla Games have used for th
 
 Images where taken from: 
 * Hero Image: https://a-static.besthdwallpaper.com/horizon-zero-dawn-video-game-aloy-behang-3840x2160-20617_54.jpg
+
+
+## Technologies ##
+---
