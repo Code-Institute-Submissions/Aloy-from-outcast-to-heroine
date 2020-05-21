@@ -48,3 +48,5 @@
 ><p>"As a user, I want to be able to contact the site owner so I can ask questions and/or suggest additional content"</p>
 
 ><p>"As I user, I want to see data about the presence of female playable characters in videogames, so I can use the data for personal goals"</p>
+
+### Site Owner Goals ###
