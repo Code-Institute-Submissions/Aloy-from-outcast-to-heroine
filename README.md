@@ -95,3 +95,4 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 
 Styling (look and feel) are based on the styling Guerilla Games have used for the Horizon Zero Dawn website.
 
+**Images**
