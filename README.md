@@ -122,3 +122,7 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
     * The project uses google fonts for additional fonts.
 * Font Awesome [link](https://fontawesome.com/)
 	* The project uses Font Awesome for icons.
+
+## Features ##
+---
+    
