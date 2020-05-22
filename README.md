@@ -130,3 +130,8 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 **Features that have been implemented:**
 
 Text to come
+
+**Features that will be implemented in the future:**
+
+## Testing ##
+---
