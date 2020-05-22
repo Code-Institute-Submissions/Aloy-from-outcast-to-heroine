@@ -125,7 +125,10 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 ---
 **Features that have been implemented:**
 
-Text to come
+* Easy to use navigation on all screen screensizes.
+* Contact form with radio buttons (not working yet).
+* Attractive and recognizable design.
+* Social media links
 
 **Features that will be implemented in the future:**
 
