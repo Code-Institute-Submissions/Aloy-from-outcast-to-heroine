@@ -127,4 +127,6 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 ## Features ##
 ---
+**Features that have been implemented:**
 
+Text to come
