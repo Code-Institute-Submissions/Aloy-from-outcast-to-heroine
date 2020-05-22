@@ -110,11 +110,7 @@ Images where taken from:
 
 For wireframing I used Pencil Prototyping (LINK). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
 
-* For **Desktop**, click [here]. (link to mockup)
-
-* For **Tablet**, click [here]. (link to mockup)
-
-* For **Mobile**, click [here]. (link to mockup)
+Links to Desktop, Tablet and Phone wireframes can be found ![here](https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes)
 
 **Other Technologies:**
 
