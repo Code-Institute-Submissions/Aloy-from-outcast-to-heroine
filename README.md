@@ -132,6 +132,11 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 **Features that will be implemented in the future:**
 
+* Video's
+* Working Read more buttons
+* Working radio buttons in contact form
+* Forum
+
 ## Testing ##
 ---
 
@@ -143,3 +148,7 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 ## Credits ##
 ---
+Credit for text used on this website:
+* Article by  Joshua Ostroff, original posted on: http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters
+* Article by j-u-i-c-e, original posted on: https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games
+* Article by Ben Lindbergh, original posted on: https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists
