@@ -145,6 +145,33 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 ## Deployment ##
 ---
+Aloy: from Outcast to Heroin was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Aloy: from Outcast to Heroin using GitHub Pages the following steps were made:
+
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to 'byIlsa/Aloy-from-outcast-to-heroin'.
+* In the top navigation clicked 'settings'.
+* Scrolled down to the GitHub Pages area.
+* Selected 'Master Branch' from the 'Source' dropdown menu.
+* Clicked to confirm my selection.
+* Aloy: from Outcast tot Heroin now live on GitHub Pages.
+
+**Running Aloy: from Outcast to Heroin Locally**
+
+Cloning Aloy: from Outcast to Heroin from GitHub:
+
+* Navigate to 'byIlsa/Aloy-from-outcast-to-heroin'.
+* Click the green 'Clone or Download' button.
+* Copy the url in the dropdown box.
+* Using your favourite IDE open up your preferred terminal.
+* Navigate to your desired file location.
+
+Copy the following code and input it into your terminal to clone Aloy: from Outcast tot Heroin.
+
+```git clone https://github.com/byIlsa/Aloy-from-outcast-to-hero```
 
 ## Credits ##
 ---
