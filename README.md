@@ -92,7 +92,7 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 * For body background: White #ffffff;
 * For additional backgrounds: Desert Storm #eae8e5;
 
-![Color Scheme](/wireframes/Color-Scheme.png)
+![Color Scheme](/wireframes/color-scheme.png)
 
 **Styling**
 
