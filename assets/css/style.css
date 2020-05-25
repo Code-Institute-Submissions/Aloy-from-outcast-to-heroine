@@ -22,3 +22,17 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+
+.hero-image {
+    background-image: url("/assets/images/hero-image-aloy.jpg");
+    background-color: #cccccc; 
+    height: 800px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.hero-image-text p {
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+}
