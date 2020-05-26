@@ -181,8 +181,8 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * Article by Ben Lindbergh, original posted on: https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists
 
 **Special thanks:**
-* Simen Dahlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!)
-* My mentor Precious Ijege for sticking by me especially during the rocky start
+* My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
+
 * Everybody at Slack for their support, tips and humor!
 
 For his undying love and support and always being there, my love, you know who you are ;) 
