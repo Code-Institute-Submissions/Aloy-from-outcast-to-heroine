@@ -24,7 +24,7 @@ a {
 }
 
 .hero-image {
-    background-image: url("/assets/images/hero-image-aloy.jpg");
+    background-image: url("../images/hero-image-aloy.jpg");
     background-color: #cccccc; 
     height: 800px; 
     background-position: center; 
