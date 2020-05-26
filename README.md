@@ -101,7 +101,7 @@ Styling (look and feel) are based on the styling Guerilla Games have used for th
 **Images and Backgrounds**
 
 Images where taken from: 
-* Hero Image: https://a-static.besthdwallpaper.com/horizon-zero-dawn-video-game-aloy-behang-3840x2160-20617_54.jpg
+* [Hero Image](https://a-static.besthdwallpaper.com/horizon-zero-dawn-video-game-aloy-behang-3840x2160-20617_54.jpg) 
 
 
 ## Technologies ##
@@ -176,7 +176,7 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 ## Credits ##
 ---
 **Credit for text used on this website:**
-* Article by  Joshua Ostroff, original posted on: http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters
+* Article by  Joshua Ostroff, original posted on: ![link](http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters)
 * Article by j-u-i-c-e, original posted on: https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games
 * Article by Ben Lindbergh, original posted on: https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists
 
