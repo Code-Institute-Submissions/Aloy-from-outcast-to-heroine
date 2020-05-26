@@ -176,9 +176,9 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 ## Credits ##
 ---
 **Credit for text used on this website:**
-* Article by  Joshua Ostroff, original posted on: ![link](http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters)
-* Article by j-u-i-c-e, original posted on: https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games
-* Article by Ben Lindbergh, original posted on: https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists
+* Article by  Joshua Ostroff, original posted on: [link](http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters)
+* Article by j-u-i-c-e, original posted on: [link](https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games)
+* Article by Ben Lindbergh, original posted on: [link](https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists)
 
 **Special thanks:**
 * My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
