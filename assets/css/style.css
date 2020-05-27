@@ -11,16 +11,32 @@ body {
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
-    font-size: 30px;
+    font-size: 50px;
     line-height: inherit;
     white-space: nowrap;
+    color:#37343d;
+    
+}
+
+.navbar-brand:hover {
+    color: #5983ff;
+}
+.nav-link {
+    display: inline-flex;
+    justify-items: flex-end;
+    padding: .5rem 1rem;
 }
 
 a {
-    color: #000000;
+    color: #37343d;
     font-size: 25px;
     text-decoration: none;
     background-color: transparent;
+    font-family: "Quicksand";
+}
+.nav-link:hover {
+    text-decoration: none;
+    color: #5983ff;
 }
 
 .hero-image {
