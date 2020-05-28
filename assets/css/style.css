@@ -40,16 +40,34 @@ a {
 .hero-image {
     background-image: url("../images/hero-image-aloy.jpg");
     background-color: #cccccc; 
-    height: 800px; 
-    background-position: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: row;
+    height: 50vh;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-position: center;
+   
 }
 
 .hero-image-text p {
     color: #fff;
     font-family: "Raleway", sans-serif;
 }
+
+.hr {
+    border: 1px solid #37343d;
+    margin: 1px 1px 1px 1px; 
+
+}
 .section-bg {
     background-color: #eae8e5;
+}
+.jumbotron  {
+    border: 1px solid #37343d;
+    border-radius: 10px;
+    background: rgba(234,232,229,0.3);
+    width: 50%;
+    
+      
 }
