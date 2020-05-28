@@ -43,8 +43,8 @@ a {
     display: flex;
     justify-content: center;
     align-items: center; 
-    flex-direction: row;
-    height: 50vh;
+
+    height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
    
@@ -67,7 +67,18 @@ a {
     border: 1px solid #37343d;
     border-radius: 10px;
     background: rgba(234,232,229,0.3);
-    width: 50%;
+    width: 30%;
+   
+
     
       
+}
+
+.lead {
+    font-size: 15px;
+    font-weight: 200;
+}
+
+div {
+    display: inline-block;
 }
