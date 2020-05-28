@@ -49,21 +49,19 @@ a {
     
    
 }
-
-.hr {
-    border: 1px solid #37343d;
-    margin: 1px 1px 1px 1px; 
-
-}
-.section-bg {
-    background-color: #eae8e5;
-}
 .jumbotron  {
     border: 1px solid #37343d;
     border-radius: 10px;
     background: rgba(234,232,229,0.4);
     width: 30%;
 }
+
+.hr {
+    border: 1px solid #37343d;
+    margin: 1px 1px 1px 1px; 
+
+}
+
 .display-4 {
     font-family: "Quicksand";
     font-size: 3.5rem;
@@ -84,3 +82,14 @@ p {
     font-size: 12px;
 }
 
+.aloy-section-text {
+    border: 1px #37343d;
+    border-radius: 10px;
+
+    
+}
+
+
+.section-bg {
+    background-color: #cccccc; 
+}
