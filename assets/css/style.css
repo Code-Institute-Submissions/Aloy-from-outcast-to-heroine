@@ -64,12 +64,23 @@ a {
     background: rgba(234,232,229,0.4);
     width: 30%;
 }
-
-    
-      
-}
-
-.lead {
-    font-size: 12px;
+.display-4 {
+    font-family: "Quicksand";
+    font-size: 3.5rem;
     font-weight: 300;
+    line-height: 1.2;
 }
+
+
+      
+p {
+    font-family: "Raleway";
+    font-size: 12px;
+    
+}
+.lead {
+
+    font-family: "Raleway";
+    font-size: 12px;
+}
+
