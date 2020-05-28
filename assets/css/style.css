@@ -43,16 +43,11 @@ a {
     display: flex;
     justify-content: center;
     align-items: center; 
-
     height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
+    
    
-}
-
-.hero-image-text p {
-    color: #fff;
-    font-family: "Raleway", sans-serif;
 }
 
 .hr {
@@ -68,13 +63,13 @@ a {
     border-radius: 10px;
     background: rgba(234,232,229,0.4);
     width: 30%;
-   
+}
 
     
       
 }
 
 .lead {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 300;
 }
