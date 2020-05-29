@@ -116,13 +116,13 @@ h3 {
 }
 
 .hero-image-protagonists {
-    background-image: url("...");
+    background-image: url("../images/hero-image-prota.png");
     background-color: #cccccc; 
     display: flex;
     justify-content: center;
     align-items: center; 
     height: 75vh;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
 
 }
