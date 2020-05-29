@@ -92,4 +92,7 @@ p {
 
 .section-bg {
     background-color: #cccccc; 
+    border: 1px solid #37343d;
+    border-radius: 10px;
 }
+
