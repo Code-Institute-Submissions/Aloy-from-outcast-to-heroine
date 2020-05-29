@@ -182,6 +182,10 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * Article by j-u-i-c-e, original posted on: [link](https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games)
 * Article by Ben Lindbergh, original posted on: [link](https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists)
 
+**Text about Aloy and Horizon Zero Dawn:**
+* Horizon Zero Dawn Wikipedia: [link](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
+* Horizon Zero Dawn website: [link](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/)
+
 **Special thanks:**
 * My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
 
