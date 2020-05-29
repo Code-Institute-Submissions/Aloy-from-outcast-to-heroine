@@ -91,8 +91,14 @@ p {
 
 
 .section-bg {
-    background-color: #cccccc; 
+    background: rgba(234,232,229,0.4);
     border: 1px solid #37343d;
     border-radius: 10px;
 }
 
+h3 {
+    font-family: "Quicksand";
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
