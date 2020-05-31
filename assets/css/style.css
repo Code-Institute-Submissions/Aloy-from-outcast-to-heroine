@@ -27,7 +27,7 @@ body {
 
 a {
     color: #37343d;
-    font-size: 3em;
+    font-size: 2rem;
     text-decoration: none;
     background-color: transparent;
     font-family: "Quicksand";
@@ -74,13 +74,13 @@ a {
       
 p {
     font-family: "Raleway";
-    font-size: 12px;
+    font-size: 1em;
     
 }
 .lead {
 
     font-family: "Raleway";
-    font-size: 12px;
+    font-size: 1rem;
 }
 
 .aloy-section-text {
