@@ -103,14 +103,12 @@ h3 {
     font-weight: 300;
     line-height: 1.2;
 }
-.card {
-    margin: 0px;
-    border-radius: 0px;
-    height: 100%;
-    
- 
-}
 
+img {
+    vertical-align: middle;
+    border-style: none;
+    padding-left: 20px;
+}
 
 .hero-image-protagonists {
     background-image: url("../images/hero-image-prota.png");
