@@ -5,11 +5,11 @@ body {
 }
 
 .navbar-brand {
-    display: inline-block;
+    display: flex;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
-    font-size: 50px;
+    font-size: 2em;
     line-height: inherit;
     white-space: nowrap;
     color:#37343d;
@@ -27,7 +27,7 @@ body {
 
 a {
     color: #37343d;
-    font-size: 25px;
+    font-size: 3em;
     text-decoration: none;
     background-color: transparent;
     font-family: "Quicksand";
