@@ -185,6 +185,7 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 **Text about Aloy and Horizon Zero Dawn:**
 * Horizon Zero Dawn Wikipedia: [link](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
 * Horizon Zero Dawn website: [link](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/)
+* Text aout Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
 
 **Special thanks:**
 * My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
