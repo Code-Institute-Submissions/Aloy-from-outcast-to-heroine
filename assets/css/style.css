@@ -48,6 +48,11 @@ a {
     height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     
    
 }
@@ -55,8 +60,11 @@ a {
     border: 1px solid #37343d;
     border-radius: 10px;
     background: rgba(234,232,229,0.4);
-    width: 30%;
     padding: 0px;
+    width: 30%;
+    justify-content: center;
+    
+  
 }
 
 
@@ -126,3 +134,4 @@ img {
     background-color: #5983ff;
     border-color: #5983ff;
 }
+
