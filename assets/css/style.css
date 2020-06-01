@@ -59,11 +59,7 @@ a {
     padding: 0px;
 }
 
-.hr {
-    border: 1px solid #37343d;
-    margin: 1px 1px 1px 1px; 
 
-}
 
 .display-4 {
     font-family: "Quicksand";
@@ -79,11 +75,7 @@ p {
     font-size: 1em;
     
 }
-.lead {
 
-    font-family: "Raleway";
-    font-size: 1rem;
-}
 
 .aloy-section-text {
     border: 1px #37343d;
