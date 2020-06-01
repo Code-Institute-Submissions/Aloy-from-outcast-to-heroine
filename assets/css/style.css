@@ -39,7 +39,7 @@ a {
     color: #5983ff;
 }
 
-.hero-image {
+.hero-image-home {
     background-image: url("../images/hero-image-aloy.jpg");
     background-color: #cccccc; 
     display: flex;
@@ -134,4 +134,19 @@ img {
     background-color: #5983ff;
     border-color: #5983ff;
 }
+.hero-image-contact {
+    background-image: url("/assets/images/aloy-stormbird.jpg");
+    background-color: #cccccc; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
+}
