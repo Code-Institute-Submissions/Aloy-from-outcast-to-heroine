@@ -117,3 +117,12 @@ img {
     padding: 30px;
 }
 
+.progress-bar {
+    background-color: #5983ff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #5983ff;
+    border-color: #5983ff;
+}
