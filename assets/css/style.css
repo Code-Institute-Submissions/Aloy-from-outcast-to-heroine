@@ -92,6 +92,7 @@ h3 {
     line-height: 1.2;
 }
 
+/* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
 img {
     vertical-align: middle;
     border-style: none;
