@@ -29,7 +29,7 @@
 ## **UX (User Experience)** ##  
 ---
 ### Project Goals ### 
-<p>The goal for this project is to make people aware of the importance of strong female playable characters in video games, specifically about how Aloy, the playable female character from 'Horizon Zero Dawn', a video game launched in 2017, has changed the landscape for female playable characters forever, at l
+<p>The goal for this project is to make people aware of the importance of strong female playable characters in video games, specifically about how Aloy, the playable female character from 'Horizon Zero Dawn', a video game launched in 2017, has changed the landscape for female playable characters forever, at least for me!
 
 ### User Goals ###
 
@@ -189,5 +189,7 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
 
 * Everybody at Slack for their support, tips and humor!
+
+* Richard Williams, for a second pair of eyes and his git knowledge.
 
 For his undying love and support and always being there, my love, you know who you are ;) 
