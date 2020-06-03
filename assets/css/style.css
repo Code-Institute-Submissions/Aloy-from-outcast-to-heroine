@@ -117,12 +117,10 @@ img {
     height: 50vh;
     background-repeat: repeat;
     background-position: center;
-}
-
-.col-12 {
-
-
-    padding: 30px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .progress-bar {

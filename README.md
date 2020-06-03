@@ -128,15 +128,13 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 **Features that have been implemented:**
 
 * Easy to use navigation on all screen screensizes.
-* Contact form with radio buttons (not working yet).
+* Contact form with radio buttons.
 * Attractive and recognizable design.
 * Social media links
 
 **Features that will be implemented in the future:**
 
 * Video's
-* Working Read more buttons
-* Working radio buttons in contact form
 * Forum
 
 ## Testing ##
