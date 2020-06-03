@@ -3,7 +3,7 @@
 body {
     background-color: #fff;
 }
-
+/* Nav bar styling */
 .navbar-brand {
     display: flex;
     padding-top: .3125rem;
@@ -26,6 +26,10 @@ body {
     font-size: 2rem;
 
 }
+.nav-link:hover {
+    text-decoration: none;
+    color: #5983ff;
+}
 
 a {
     color: #37343d;
@@ -34,10 +38,7 @@ a {
     background-color: transparent;
     font-family: "Quicksand";
 }
-.nav-link:hover {
-    text-decoration: none;
-    color: #5983ff;
-}
+/* Hero image home styling */
 
 .hero-image-home {
     background-image: url("../images/hero-image-aloy.jpg");
@@ -56,81 +57,8 @@ a {
     
    
 }
-.jumbotron  {
-    border: 1px solid #37343d;
-    border-radius: 10px;
-    background: rgba(234,232,229,0.4);
-    padding: 0px;
-    width: 30%;
-    justify-content: center;
-    
-  
-}
+/* Hero image contact styling */
 
-
-
-.display-4 {
-    font-family: "Quicksand";
-    font-size: 3.5rem;
-    font-weight: 300;
-    line-height: 1.2;
-}
-
-
-      
-p {
-    font-family: "Raleway";
-    font-size: 1em;
-    
-}
-
-
-.aloy-section-text {
-    border: 1px #37343d;
-    border-radius: 10px;
-
-    
-}
-
-
-h3 {
-    font-family: "Quicksand";
-    font-size: 3.5rem;
-    font-weight: 300;
-    line-height: 1.2;
-}
-
-/* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
-img {
-    vertical-align: middle;
-    border-style: none;
-    box-shadow: 10px 10px 5px #37343d;
-}
-
-.hero-image-protagonists {
-    background-image: url("../images/hero-image-prota.png");
-    background-color: #eae8e5; 
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    height: 50vh;
-    background-repeat: repeat;
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-.progress-bar {
-    background-color: #5983ff;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #5983ff;
-    border-color: #5983ff;
-}
 .hero-image-contact {
     background-image: url("/assets/images/aloy-stormbird.jpg");
     background-color: #eae8e5; 
@@ -147,6 +75,91 @@ img {
     background-size: cover;
 
 }
+
+/* Hero image protagonists styling */
+
+.hero-image-protagonists {
+    background-image: url("../images/hero-image-prota.png");
+    background-color: #eae8e5; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 50vh;
+    background-repeat: repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Jumbotrons styling */
+.jumbotron  {
+    border: 1px solid #37343d;
+    border-radius: 10px;
+    background: rgba(234,232,229,0.4);
+    padding: 0px;
+    width: 30%;
+    justify-content: center;
+    
+  
+}
+
+.display-4 {
+    font-family: "Quicksand";
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+/* Styling for paragraphs */
+      
+p {
+    font-family: "Raleway";
+    font-size: 1em;
+    
+}
+
+
+.aloy-section-text {
+    border: 1px #37343d;
+    border-radius: 10px;
+
+}
+
+
+h3 {
+    font-family: "Quicksand";
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+/* Images styling */
+
+/* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
+img {
+    vertical-align: middle;
+    border-style: none;
+    box-shadow: 10px 10px 5px #37343d;
+}
+
+
+/* Progress bars */
+
+.progress-bar {
+    background-color: #5983ff;
+}
+
+/* Button styling */
+
+.btn-primary {
+    color: #fff;
+    background-color: #5983ff;
+    border-color: #5983ff;
+}
+
+/* Form on contact page */
 
 .form-bg {
     background-color: #eae8e5; 
