@@ -41,7 +41,7 @@ a {
 
 .hero-image-home {
     background-image: url("../images/hero-image-aloy.jpg");
-    background-color: #cccccc; 
+    background-color: #eae8e5; 
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -110,7 +110,7 @@ img {
 
 .hero-image-protagonists {
     background-image: url("../images/hero-image-prota.png");
-    background-color: #cccccc; 
+    background-color: #eae8e5; 
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -134,7 +134,7 @@ img {
 }
 .hero-image-contact {
     background-image: url("/assets/images/aloy-stormbird.jpg");
-    background-color: #cccccc; 
+    background-color: #eae8e5; 
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -150,6 +150,6 @@ img {
 }
 
 .form-bg {
-    background-color: #cccccc; 
+    background-color: #eae8e5; 
 
 }

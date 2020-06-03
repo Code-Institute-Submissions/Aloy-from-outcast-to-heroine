@@ -112,7 +112,7 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 <p>View my wireframes <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes">here.</a></p>
 
-Whilst building this project, I quickly noticed that my choice for multiple menu links, wasnt what my demographic wanted, so I decided to divert to a landingpage structure with only two menu links.
+Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with only two menu links.
 
 **Other Technologies:**
 
