@@ -104,8 +104,7 @@ h3 {
 img {
     vertical-align: middle;
     border-style: none;
-    padding-left: 20px;
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: 10px 10px 5px #37343d;
 }
 
 .hero-image-protagonists {
