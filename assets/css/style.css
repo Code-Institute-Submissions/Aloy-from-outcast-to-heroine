@@ -194,3 +194,8 @@ img {
     background-color: #eae8e5; 
 
 }
+
+hr.dotted {
+  border-top: 2px dotted #37343d;
+  
+}
