@@ -96,7 +96,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center; 
-    height: 50vh;
+    height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -120,6 +120,7 @@ a {
     justify-content: center;
     position: absolute;
     bottom: 80px;
+   
     right: 25px;
 }
     
