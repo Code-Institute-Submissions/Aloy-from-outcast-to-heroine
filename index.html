@@ -17,13 +17,13 @@
 	<div class="container-fluid">
 		<nav class="navbar navbar-expand-md fixed-top nav-bg-color">
 			<a class="navbar-brand" href="#">Aloy</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <div class="collapse navbar-collapse" id="navbarToggler">
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
@@ -34,8 +34,7 @@
 		</nav>
 	</div>
 <!--Hero image with Jumbotron-->
-	<div class="container-fluid">
-		<div class="hero-image-home">
+	<section class="hero-image-home container-fluid">
 			<div class="jumbotron-hero-home text-center">
 				<h1 class="display-4">Aloy, from outcast to heroin.</h1>
 				    
@@ -43,11 +42,11 @@
                     it is important to have female playble characters!</p>
 
 			</div>
-		</div>
-	</div>
+		</section>
+	
 
 <!--Aloy section-->
-	<div class="container">
+	<section class="about-aloy container">
 		<div class="row justify-content-center align-items-center mt-3">
 			<div class="col-12 col-lg-6">
 				<h3>About Aloy</h3>
@@ -94,10 +93,10 @@
                 </div>
             </div>
         </div>
-	</div>    
+	</section>    
 <!--Art Section-->
 <!--Cosplay-->
-<div class="container-fluid">
+<section class="art-section-cosplay container-fluid">
 	<div class="row justify-content-center align-items-center mt-3">
 		<div class="col-12 col-md-4 col-lg-3 ml-3">
 			<h3>Cosplay</h3>
@@ -127,9 +126,9 @@
             <img src="assets/images/cosplay_2.jpg" class="img-fluid" alt="Aloy Cosplay"/>
         </div>
 	</div>
-</div>
+</section>
 <!--Fan art-->
-<div class="container-fluid">
+<section class="art-section-fan-art container-fluid">
     <div class="row justify-content-center align-items-center mt-3">
         <div class="col-12 col-md-6 col-lg-3">
             <h3>Fan Art</h3>
@@ -153,33 +152,31 @@
 			<img src="assets/images/fan_art_1.jpg" class="img-fluid" alt="Aloy Cosplay"/>
         </div>
 	</div>
-</div>
+</section>
 
 <!--Protagonist section-->
-<div class="container-fluid">
-    <div class="hero-image-protagonists">
-        <div class="jumbotron-protagonists text-center">
-            <h1 class="display-4">
-                The importance of strong, female playable character
-            </h1>
-                <p>There have been a lot of controversies lately about the lack of playable
-                female characters in popular game franchises.
-                Ubisoft recently got taken to task when it was revealed that Assassin's
-                Creed: Unity and Far Cry 4, two of their flagship titles,
-                both lacked playable female protagonists. 
-                <hr class="dotted">
-                Rockstar was likewise criticized in 2013 for having three playable male characters,
-                yet no playable female characters, in Grand Theft Auto V.
-                </p>
-                <p class="bold-text">  There are over six times as many games about a sole male protagonist as there are about a sole female protagonist.
-                In other words, for every Lara Croft, there are about six male leads.
-				</p>
-				<a class="btn btn-primary btn-lg" href="https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games" role="button" a target="_blank" aria-label="Read more button" rel="noopener">Read More</a>
+<section class="hero-image-protagonists container-fluid">
+    <div class="jumbotron-protagonists text-center">
+        <h1 class="display-4">
+            The importance of strong, female playable character
+        </h1>
+            <p>There have been a lot of controversies lately about the lack of playable
+            female characters in popular game franchises.
+            Ubisoft recently got taken to task when it was revealed that Assassin's
+            Creed: Unity and Far Cry 4, two of their flagship titles,
+            both lacked playable female protagonists. 
+            <hr class="dotted">
+            Rockstar was likewise criticized in 2013 for having three playable male characters,
+            yet no playable female characters, in Grand Theft Auto V.
+            </p>
+            <p class="bold-text">  There are over six times as many games about a sole male protagonist as there are about a sole female protagonist.
+            In other words, for every Lara Croft, there are about six male leads.
+			</p>
+			<a class="btn btn-primary btn-lg" href="https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games" role="button" a target="_blank" aria-label="Read more button" rel="noopener">Read More</a>
 				
 		</div>
-	</div>
-</div>
-<div class="container">
+</section>
+<section class="history container">
     <div class="row justify-content-center mt-2">
         <div class="col-12 col-md-6">
                 <h3>History of protagonists</h3>
@@ -233,11 +230,10 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <!--Footer-->
-<footer>
-    <div class="container-fluid">
+<footer class="container-fluid">
         <div class="row justify-content-center mt-2">
             <div class="col-md-4 text-center">
                 <h5>Copyright</h5>
@@ -287,7 +283,6 @@
                 </ul>
             </div>
         </div>
-    </div>
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
