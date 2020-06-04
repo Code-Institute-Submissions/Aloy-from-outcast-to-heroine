@@ -159,7 +159,8 @@ h3 {
 /* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
 img {
     vertical-align: middle;
-    border-style: none;
+    border: 1px solid #37343d;
+    border-radius: 10px;
     box-shadow: 10px 10px 5px #37343d;
 }
 
