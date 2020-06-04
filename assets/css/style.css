@@ -84,13 +84,16 @@ a {
     justify-content: center;
     align-items: center; 
     height: 50vh;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    position: relative;
+
 }
+
 
 /* Jumbotrons styling */
 .jumbotron-hero-home  {
