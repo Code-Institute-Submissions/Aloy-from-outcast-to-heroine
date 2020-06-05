@@ -51,10 +51,9 @@ a {
 .bold-text {
     font-weight: 600;
 }
-/* Hero image home styling */
+/* Hero images styling */
 
-.hero-image-home {
-    background-image: url("../images/hero-image-aloy.jpg");
+.hero-images {
     background-color: #eae8e5; 
     display: flex;
     justify-content: center;
@@ -67,30 +66,15 @@ a {
     -o-background-size: cover;
     background-size: cover;
     position: relative;
-    
-   
 }
 
-/* Hero image protagonists styling */
-
-.hero-image-protagonists {
+.hero-protagonists {
     background-image: url("../images/hero-image-prota.png");
-    background-color: #eae8e5; 
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    height: 75vh;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    position: relative;
-
 }
 
-
+.hero-home {
+    background-image: url("../images/hero-image-aloy.jpg");
+}
 /* Jumbotrons styling */
 .jumbotron-hero-home  {
     
