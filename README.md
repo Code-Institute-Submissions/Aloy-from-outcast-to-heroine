@@ -179,6 +179,6 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 
 * Everybody at Slack for their support, tips and humor!
 
-* Richard Williams, for a second pair of eyes and his git knowledge.
+* [Richard Williams](https://github.com/RichardWilliams) , for a second pair of eyes and his git knowledge.
 
 For his undying love and support and always being there, my love, you know who you are ;) 
