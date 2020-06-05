@@ -175,7 +175,7 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * Text aout Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
 
 **Special thanks:**
-* My Yoda-mentor Simen Daehlen for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is!
+* My Yoda-mentor [Simen Daehlin](https://github.com/Eventyret) for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is! (even tho you are horde!).
 
 * Everybody at Slack for their support, tips and humor!
 
