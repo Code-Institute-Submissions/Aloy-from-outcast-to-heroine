@@ -70,23 +70,6 @@ a {
     
    
 }
-/* Hero image contact styling */
-
-.hero-image-contact {
-    background-image: url("/assets/images/aloy-stormbird.jpg");
-    background-color: #eae8e5; 
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    height: 75vh;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-}
 
 /* Hero image protagonists styling */
 
