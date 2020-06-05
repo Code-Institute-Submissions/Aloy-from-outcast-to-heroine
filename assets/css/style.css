@@ -89,7 +89,7 @@ a {
 .jumbotron-protagonists  {
     border: 1px solid #37343d;
     border-radius: 10px;
-    background: rgba(234,232,229,0.4);
+    background: rgba(234,232,229,0.6);
     padding: 1rem 1rem;
     justify-content: center;
     align-items: center;
@@ -161,11 +161,17 @@ hr.dotted {
 button, input, optgroup, select, textarea {
     margin: 1rem;
 }
+.contact-bg {
+    background-image: url("../images/hero-image-aloy.jpg");
 
+}
 
+.form-control {
+    margin: 0;
+}
 @media (max-width: 575.98px) { 
     .jumbotron-protagonists {
-        height: 100%;
+        height: fit-content;
 
     }
 
