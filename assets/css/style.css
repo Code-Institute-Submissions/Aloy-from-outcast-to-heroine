@@ -159,14 +159,15 @@ img {
     border-color: #5983ff;
 }
 
-/* Form on contact page */
-
-.form-bg {
-    background-color: #eae8e5; 
-
-}
 
 hr.dotted {
   border-top: 2px dotted #37343d;
   
+}
+
+button, input, optgroup, select, textarea {
+    margin: 1rem;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
 }
