@@ -115,7 +115,7 @@ a {
       
 p {
     
-    font-size: 1em;
+    font-size: 1.5em;
     
 }
 
@@ -167,7 +167,4 @@ hr.dotted {
 
 button, input, optgroup, select, textarea {
     margin: 1rem;
-    font-family: inherit;
-    font-size: inherit;
-    line-height: inherit;
 }
