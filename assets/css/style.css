@@ -169,6 +169,10 @@ button, input, optgroup, select, textarea {
 .form-control {
     margin: 0;
 }
+.form-check-label {
+    font-size: 1rem;
+}
+
 @media (max-width: 575.98px) { 
     .jumbotron-protagonists {
         height: fit-content;
