@@ -15,7 +15,6 @@
         * Fonts
         * Icons
         * Colours
-        * Styling
         * Images and Backgrounds
 * Technologies 
 * Features 
@@ -93,16 +92,6 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 * For additional backgrounds: Desert Storm #eae8e5;
 
 ![Color Scheme](/wireframes/color-scheme.png)
-
-**Styling**
-
-Styling (look and feel) are based on the styling Guerilla Games have used for the Horizon Zero Dawn website.
-
-**Images and Backgrounds**
-
-Images where taken from: 
-* [Hero Image](https://a-static.besthdwallpaper.com/horizon-zero-dawn-video-game-aloy-behang-3840x2160-20617_54.jpg) 
-
 
 ## Technologies ##
 ---
