@@ -77,18 +77,12 @@ a {
 }
 /* Jumbotrons styling */
 .jumbotron-hero-home  {
-    
     border: 1px solid #37343d;
     border-radius: 10px;
     background: rgba(234,232,229,0.4);
-    padding: 0px;
-    width: 30%;
-    height: fit-content;
+    padding: 1rem 1rem;
     justify-content: center;
     position: absolute;
-    bottom: 80px;
-   
-    right: 25px;
 }
     
 .jumbotron-protagonists  {
