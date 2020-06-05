@@ -32,12 +32,12 @@
 
 ### User Goals ###
 
-    * Find information about the presence of female playable characters in video games.
-    * Find information about the character of Aloy.
-    * Images of Aloy (fan art).
-    * Send an email to the site owner.
-    * Contact the site owner through options given with radio buttons for clarification on why a user contacts the site owner.
-    * Why it is important to have 'healthy' rolemodels instead of bare-naked ladies who have no storylines of any substance.
+* Find information about the presence of female playable characters in video games.
+* Find information about the character of Aloy.
+* Images of Aloy (fan art).
+* Send an email to the site owner.
+* Contact the site owner through options given with radio buttons for clarification on why a user contacts the site owner.
+* Why it is important to have 'healthy' rolemodels instead of bare-naked ladies who have no storylines of any substance.
 
 ### User Stories ###
 
