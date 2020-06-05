@@ -82,18 +82,17 @@ a {
     background: rgba(234,232,229,0.4);
     padding: 1rem 1rem;
     justify-content: center;
+    align-items: center;
     position: absolute;
 }
     
 .jumbotron-protagonists  {
-    
     border: 1px solid #37343d;
     border-radius: 10px;
     background: rgba(234,232,229,0.4);
-    padding: 0px;
-    width: 30%;
-    height: fit-content;
+    padding: 1rem 1rem;
     justify-content: center;
+    align-items: center;
     position: absolute;
 }
   
@@ -161,4 +160,14 @@ hr.dotted {
 
 button, input, optgroup, select, textarea {
     margin: 1rem;
+}
+
+
+@media (max-width: 575.98px) { 
+    .jumbotron-protagonists {
+        height: 100%;
+
+    }
+
+
 }
