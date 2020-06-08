@@ -93,9 +93,8 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 
 ![Color Scheme](/wireframes/color-scheme.png)
 
-## Technologies ##
 ---
-**Wireframing:**
+## Wireframing: ##
 
 For wireframing I used Pencil Prototyping (LINK). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
 
@@ -103,16 +102,9 @@ For wireframing I used Pencil Prototyping (LINK). This produced some very basis 
 
 Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with only two menu links.
 
-**Other Technologies:**
 
-* Bootstrap 4 [link](https://getbootstrap.com/)
-	* The project uses Bootstrap 4 for grids, buttons, forms.
-* Google fonts [link](https://fonts.google.com/)
-    * The project uses google fonts for additional fonts.
-* Font Awesome [link](https://fontawesome.com/)
-	* The project uses Font Awesome for icons.
 
-## Features ##
+## Features: ##
 ---
 **Features that have been implemented:**
 
@@ -126,7 +118,19 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 * Video's
 * Forum
 
-## Testing ##
+## Technologies used: ##
+
+**Languages:**
+* HTML
+* CSS
+
+**Tools & Libraries:**
+
+* Git
+* Bootstrap
+* Font-Awesome
+
+## Testing: ##
 ---
 
 ## Bugs ##
