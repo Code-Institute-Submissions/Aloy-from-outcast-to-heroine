@@ -44,6 +44,7 @@ h3 {
 }
 .dotted {
   border-top: 2px dotted #37343d;
+  margin-bottom: 1rem;
 }
 
 /* Nav bar styling */
