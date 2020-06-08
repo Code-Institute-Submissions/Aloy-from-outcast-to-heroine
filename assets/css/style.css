@@ -38,6 +38,10 @@ h3 {
     font-weight: 200;
     line-height: 1.2;
 }
+.dotted {
+  border-top: 2px dotted #37343d;
+  
+}
 
 /* Nav bar styling */
 .nav-bg-color {
@@ -66,11 +70,25 @@ h3 {
     text-decoration: none;
     color: #5983ff;
 }
-
-
+/* Button styling */
+.button, input, optgroup, select, textarea {
+    margin: 1rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #5983ff;
+    border-color: #5983ff;
+}
+/* General */
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
 
 /* Hero images styling */
-
 .hero-images {
     background-color: #eae8e5; 
     display: flex;
@@ -89,7 +107,6 @@ h3 {
 .hero-protagonists {
     background-image: url("../images/hero-image-prota.png");
 }
-
 .hero-home {
     background-image: url("../images/hero-image-aloy.jpg");
 }
@@ -117,37 +134,25 @@ h3 {
 /* Images styling */
 
 /* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
-.img {
+img {
     vertical-align: middle;
     border: 1px solid #37343d;
     border-radius: 10px;
     box-shadow: 10px 10px 5px #37343d;
 }
+.myHover:hover {
+    transform: scale(1.2);
+    transition-timing-function: ease-in-out;
 
+}
 /* Progress bars */
 .progress-bar {
     background-color: #5983ff;
 }
 
-/* Button styling */
-.btn-primary {
-    color: #fff;
-    background-color: #5983ff;
-    border-color: #5983ff;
-}
-
-
-.dotted {
-  border-top: 2px dotted #37343d;
-  
-}
-
-button, input, optgroup, select, textarea {
-    margin: 1rem;
-}
+/* Contact form */
 .contact-bg {
     background-image: url("../images/hero-image-aloy.jpg");
-
 }
 
 .form-control {
@@ -157,20 +162,9 @@ button, input, optgroup, select, textarea {
     font-size: 1rem;
 }
 
-
-.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
-    width: 100%;
-    padding-right: 0;
-    padding-left: 0;
-    margin-right: 0;
-    margin-left: 0;
-}
-
+/* media queries */
 @media (max-width: 575.98px) { 
     .jumbotron-protagonists {
         height: fit-content;
-
     }
-
-
 }
