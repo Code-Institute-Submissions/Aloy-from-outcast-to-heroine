@@ -1,15 +1,45 @@
-
+/*Google font import link */
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@500;700;800&display=swap');
 
-
+/*General body styling*/
 body {
     background-color: #fff;
     font-family: "Raleway", sans-serif;
     font-size: 62.5%;
     scroll-behavior: smooth;
 }
-/* Nav bar styling */
+a {
+    color: #37343d;
+    font-size: 2rem;
+    text-decoration: none;
+    background-color: transparent;
+    font-family: "Quicksand";
+}
+.bold-text {
+    font-weight: 600;
+}
+p {  
+    font-size: 1.5em; 
+}
+h3 {
+    font-family: "Quicksand";
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.aloy-section-text {
+    border: 1px #37343d;
+    border-radius: 10px;
 
+}
+.display-4 {
+    font-family: "Quicksand";
+    font-size: 2.5rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+/* Nav bar styling */
 .nav-bg-color {
     background-color: #fff;
 }
@@ -21,10 +51,8 @@ body {
     font-size: 4rem;
     line-height: inherit;
     white-space: nowrap;
-    color:#37343d;
-    
+    color:#37343d;   
 }
-
 .navbar-brand:hover {
     color: #5983ff;
 }
@@ -33,24 +61,14 @@ body {
     justify-items: flex-end;
     padding: .5rem 1rem;
     font-size: 2rem;
-
 }
 .nav-link:hover {
     text-decoration: none;
     color: #5983ff;
 }
-/* Nav link */
-a {
-    color: #37343d;
-    font-size: 2rem;
-    text-decoration: none;
-    background-color: transparent;
-    font-family: "Quicksand";
-}
 
-.bold-text {
-    font-weight: 600;
-}
+
+
 /* Hero images styling */
 
 .hero-images {
@@ -86,7 +104,6 @@ a {
     align-items: center;
     position: absolute;
 }
-    
 .jumbotron-protagonists  {
     border: 1px solid #37343d;
     border-radius: 10px;
@@ -96,57 +113,23 @@ a {
     align-items: center;
     position: absolute;
 }
-  
-
-.display-4 {
-    font-family: "Quicksand";
-    font-size: 2.5rem;
-    font-weight: 200;
-    line-height: 1.2;
-}
-
-/* Styling for paragraphs and texts */
-      
-p {
-    
-    font-size: 1.5em;
-    
-}
-
-
-.aloy-section-text {
-    border: 1px #37343d;
-    border-radius: 10px;
-
-}
-
-
-h3 {
-    font-family: "Quicksand";
-    font-size: 3.5rem;
-    font-weight: 300;
-    line-height: 1.2;
-}
 
 /* Images styling */
 
 /* box-shadow taken from: https://www.w3schools.com/css/css3_shadows_box.asp*/
-img {
+.img {
     vertical-align: middle;
     border: 1px solid #37343d;
     border-radius: 10px;
     box-shadow: 10px 10px 5px #37343d;
 }
 
-
 /* Progress bars */
-
 .progress-bar {
     background-color: #5983ff;
 }
 
 /* Button styling */
-
 .btn-primary {
     color: #fff;
     background-color: #5983ff;
@@ -154,7 +137,7 @@ img {
 }
 
 
-hr.dotted {
+.dotted {
   border-top: 2px dotted #37343d;
   
 }
