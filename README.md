@@ -121,14 +121,16 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 ## Technologies used: ##
 ---
 **Languages:**
-* HTML
-* CSS
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Tools & Libraries:**
 
-* Git
-* Bootstrap
-* Font-Awesome
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google fonts](https://fonts.google.com/) 
 
 ## Testing: ##
 ---
