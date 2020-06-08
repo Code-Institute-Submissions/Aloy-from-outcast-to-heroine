@@ -106,14 +106,14 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 
 ## Features: ##
 ---
-**Features that have been implemented:**
+**Features** that have been **implemented:**
 
 * Easy to use navigation on all screen screensizes.
 * Contact form with radio buttons.
 * Attractive and recognizable design.
 * Social media links
 
-**Features that will be implemented in the future:**
+**Features** that will be **implemented** in the **future:**
 
 * Video's
 * Forum

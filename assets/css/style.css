@@ -78,8 +78,9 @@ h3 {
 .button, input, optgroup, select, textarea {
     margin: 1rem;
 }
+
 .btn-primary {
-    color: #fff;
+    color: rgb(255, 255, 255);
     background-color: #5983ff;
     border-color: #5983ff;
 }
