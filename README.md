@@ -144,27 +144,26 @@ Here are some I encountered, with the solution.
 **During development:**
 * Jumbotron overflow:
     * Removed margins and padding and added height in media querie.
-
 * Columns not nicely spaced:
     * Set margins on top and bottoms.
-
 * Anchor link about ID not jumping to right place:
-    *
-
-Rows to close to each other:
+    * Still figuring that one out.
+* Rows to close to each other:
     * Set margins and padding.
-
-Content not centering on mobile:
+* Content not centering on mobile:
     * Margin and padding (not completely resolved).      
 
 
 **From validation/testing**
+
+* Nav section didnt have a heading, got flagged by html validator.
+    * Changed section tag for div, as nav doesnt need a heading per se.
 * Double a tag on lines with links: 
     * Removed a from target tag.
-
 * Possible misuse of aria-label:
-    * Moved aria-label and rel from the i tag to the a tag, where they belong.             
-## Deployment ##
+    * Moved aria-label and rel from the i tag to the a tag, where they belong.
+
+## Deployment: ##
 ---
 Aloy: from Outcast to Heroin was developed on GitPod, using git and GitHub to host the repository.
 
