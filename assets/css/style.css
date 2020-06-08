@@ -26,6 +26,11 @@ h3 {
     font-size: 3.5rem;
     font-weight: 300;
     line-height: 1.2;
+    text-align: center;
+    color: #fff;
+}
+.section-titles {
+    color:#37343d;
 }
 .aloy-section-text {
     border: 1px #37343d;
@@ -151,6 +156,7 @@ img {
 /* Contact form */
 .contact-bg {
     background-image: url("../images/hero-image-aloy.jpg");
+    height: 42vh;
 }
 
 .form-control {
@@ -158,6 +164,9 @@ img {
 }
 .form-check-label {
     font-size: 1rem;
+}
+.form-group {
+    margin-bottom: 1.2rem;
 }
 
 /* media queries */
