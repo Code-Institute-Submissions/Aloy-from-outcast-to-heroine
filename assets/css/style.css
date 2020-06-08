@@ -67,7 +67,7 @@ a {
     background-size: cover;
     position: relative;
 }
-
+/* Hero images links */
 .hero-protagonists {
     background-image: url("../images/hero-image-prota.png");
 }
@@ -75,6 +75,7 @@ a {
 .hero-home {
     background-image: url("../images/hero-image-aloy.jpg");
 }
+
 /* Jumbotrons styling */
 .jumbotron-hero-home  {
     border: 1px solid #37343d;
@@ -171,6 +172,15 @@ button, input, optgroup, select, textarea {
 }
 .form-check-label {
     font-size: 1rem;
+}
+
+
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 @media (max-width: 575.98px) { 
