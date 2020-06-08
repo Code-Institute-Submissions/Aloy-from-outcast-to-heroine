@@ -93,9 +93,9 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 
 ![Color Scheme](/wireframes/color-scheme.png)
 
----
-## Wireframing: ##
 
+## Wireframing: ##
+---
 For wireframing I used Pencil Prototyping (LINK). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
 
 <p>View my wireframes <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes">here.</a></p>
@@ -119,7 +119,7 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 * Forum
 
 ## Technologies used: ##
-
+---
 **Languages:**
 * HTML
 * CSS
@@ -133,9 +133,35 @@ Whilst building this project, I quickly noticed that my choice for multiple menu
 ## Testing: ##
 ---
 
-## Bugs ##
+## Bugs: ##
 ---
+Bugs, those pesky bugs:
 
+Here are some I encountered, with the solution.
+
+**During development:**
+* Jumbotron overflow:
+    * Removed margins and padding and added height in media querie.
+
+* Columns not nicely spaced:
+    * Set margins on top and bottoms.
+
+* Anchor link about ID not jumping to right place:
+    *
+
+Rows to close to each other:
+    * Set margins and padding.
+
+Content not centering on mobile:
+    * Margin and padding (not completely resolved).      
+
+
+**From validation/testing**
+* Double a tag on lines with links: 
+    * Removed a from target tag - resolved.
+
+* Possible misuse of aria-label:
+    *Still figuring that one out.              
 ## Deployment ##
 ---
 Aloy: from Outcast to Heroin was developed on GitPod, using git and GitHub to host the repository.
