@@ -133,6 +133,12 @@ h3 {
     align-items: center;
     position: absolute;
 }
+.jumbotron {
+    background: rgba(255,255,255,0.58);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0;
+}
 
 /* Images styling */
 
@@ -142,11 +148,12 @@ img {
     border: 1px solid #37343d;
     border-radius: 10px;
     box-shadow: 10px 10px 5px #37343d;
+    margin-top: 1rem;
 }
 .myHover:hover {
     transform: scale(1.2);
     transition-timing-function: ease-in-out;
-
+    transition-duration: 1.2s;
 }
 /* Progress bars */
 .progress-bar {
@@ -156,7 +163,6 @@ img {
 /* Contact form */
 .contact-bg {
     background-image: url("../images/hero-image-aloy.jpg");
-    height: 42vh;
 }
 
 .form-control {
