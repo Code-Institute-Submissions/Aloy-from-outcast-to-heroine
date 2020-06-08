@@ -158,10 +158,10 @@ Content not centering on mobile:
 
 **From validation/testing**
 * Double a tag on lines with links: 
-    * Removed a from target tag - resolved.
+    * Removed a from target tag.
 
 * Possible misuse of aria-label:
-    *Still figuring that one out.              
+    * Moved aria-label and rel from the i tag to the a tag, where they belong.             
 ## Deployment ##
 ---
 Aloy: from Outcast to Heroin was developed on GitPod, using git and GitHub to host the repository.
