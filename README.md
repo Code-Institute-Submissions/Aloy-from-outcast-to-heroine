@@ -96,7 +96,7 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 
 ## Wireframing: ##
 ---
-For wireframing I used Pencil Prototyping (LINK). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
+For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
 
 <p>View my wireframes <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes">here.</a></p>
 
