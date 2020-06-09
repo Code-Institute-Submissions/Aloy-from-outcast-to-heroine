@@ -156,7 +156,7 @@ Here are some I encountered, with the solution.
     * Margin and padding (not completely resolved).      
 
 
-**From validation/testing**
+**From validation/testing:**
 
 * Nav section didnt have a heading, got flagged by html validator.
     * Changed section tag for div, as nav doesnt need a heading per se.
@@ -183,7 +183,7 @@ When deploying Aloy: from Outcast to Heroin using GitHub Pages the following ste
 * Clicked to confirm my selection.
 * Aloy: from Outcast tot Heroin now live on GitHub Pages.
 
-**Running Aloy: from Outcast to Heroin Locally**
+**Running Aloy: from Outcast to Heroin Locally:**
 
 Cloning Aloy: from Outcast to Heroin from GitHub:
 
@@ -197,7 +197,7 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 
 ```git clone https://github.com/byIlsa/Aloy-from-outcast-to-hero```
 
-## Credits ##
+## Credits: ##
 ---
 **Credit for text used on this website:**
 * Article by  Joshua Ostroff, original posted on: [link](http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters)
@@ -207,6 +207,8 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * Horizon Zero Dawn Wikipedia: [link](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
 * Horizon Zero Dawn website: [link](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/)
 * Text about Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
+
+**Images used:**
 
 **Special thanks:**
 * My Yoda-mentor [Simen Daehlin](https://github.com/Eventyret) for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is! (even tho you are horde!).
