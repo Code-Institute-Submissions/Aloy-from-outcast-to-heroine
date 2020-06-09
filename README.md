@@ -210,6 +210,19 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 
 **Images used:**
 
+General:
+
+* [Aloy stormbird](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-video-game-aloy-boogschutter-meisje--dt_nl-20619.html)
+
+* [Aloy birds eye view](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-female-protagonist--dt_nl-20298.html)
+
+* [Aloy thunderjaw](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-en-de-dinosaurus-van-de-robot-dt_nl-19651.html)
+
+* [Aloy snapmaw](https://psmedia.playstation.com/is/image/psmedia/horizon-zero-dawn-screen-31-ps4-eu-20oct16?$MediaCarousel_Original$) 
+
+* [Aloy frozen wilds](https://i.kinja-img.com/gawker-media/image/upload/ncwwmdyfcvfhpqbskhnm.png)
+
+
 **Special thanks:**
 * My Yoda-mentor [Simen Daehlin](https://github.com/Eventyret) for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is! (even tho you are horde!).
 
