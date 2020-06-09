@@ -198,12 +198,11 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 **Credit for text used on this website:**
 * Article by  Joshua Ostroff, original posted on: [link](http://exclaim.ca/gaming/article/manic_pixel_dream_girls-on_importance_playable_female_characters)
 * Article by j-u-i-c-e, original posted on: [link](https://levelskip.com/misc/do_we_need_more_playable_female_characters_in_video_games)
-* Article by Ben Lindbergh, original posted on: [link](https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists)
 
 **Text about Aloy and Horizon Zero Dawn:**
 * Horizon Zero Dawn Wikipedia: [link](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
 * Horizon Zero Dawn website: [link](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/)
-* Text aout Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
+* Text about Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
 
 **Special thanks:**
 * My Yoda-mentor [Simen Daehlin](https://github.com/Eventyret) for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is! (even tho you are horde!).
