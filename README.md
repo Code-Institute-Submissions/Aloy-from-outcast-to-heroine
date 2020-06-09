@@ -237,7 +237,7 @@ Images for Art section:
 
 Images for Protagonists section:
 
-The hero image used in the protagonists section was made by myself and contains:
+The **hero image** used in the **protagonists** section was made by **myself** and **contains**:
 
 * Aloy; crops from images used on this site.
 
