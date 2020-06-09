@@ -264,3 +264,5 @@ The **hero image** used in the **protagonists** section was made by **myself** a
 * [Richard Williams](https://github.com/RichardWilliams) , for a second pair of eyes and his git knowledge.
 
 For his undying love and support and always being there, my love, you know who you are ;) 
+
+**Site for educational purposes only!**
