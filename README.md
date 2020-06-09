@@ -235,6 +235,25 @@ Images for Art section:
 
     * [cosplay_2](https://twitter.com/Aurora_Yulia/status/1146512824941842432/photo/1)
 
+Images for Protagonists section:
+
+The hero image used in the protagonists section was made by myself and contains:
+
+* Aloy; crops from images used on this site.
+
+* [Amanda Ripley](https://www.avpgalaxy.net/wordpress/wp-content/uploads/2019/01/11.jpg) 
+
+* [Senua](https://static3.thegamerimages.com/wordpress/wp-content/uploads/2019/12/hellblade-hellblade-2-senua-s-saga-1-1.jpg) 
+
+* [Kassandra](https://twinfinite.net/wp-content/uploads/2018/09/ac-kassandra.jpg) 
+
+* [Claire Redfield](http://www.relyonhorror.com/wp-content/uploads/2012/05/CLAIRE_REDFIELD.jpg) 
+
+* [Heather Mason](https://i.pinimg.com/originals/9d/f1/bd/9df1bd25a6d6de50879f8956063fe06a.jpg) 
+
+* [Faith Connors](http://vignette1.wikia.nocookie.net/mirrorsedge/images/6/6c/Cropped-1280-1024-719167.jpg/revision/latest?cb=20160919164747) 
+
+* [Shiela](https://media.vandal.net/m/52273/bright-memory-2018123119171671_1.jpg) 
 
 
 **Special thanks:**
