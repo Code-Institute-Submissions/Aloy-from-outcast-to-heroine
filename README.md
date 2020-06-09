@@ -222,6 +222,20 @@ General:
 
 * [Aloy frozen wilds](https://i.kinja-img.com/gawker-media/image/upload/ncwwmdyfcvfhpqbskhnm.png)
 
+Images for Art section:
+
+* Fan Art:
+    * [fan_art_1](https://www.deviantart.com/nikusenpai/art/Horizon-Wallpaper-686563046)
+
+    * [fan_art_2](https://www.deviantart.com/kalasketch/art/Aloy-Horizon-Zero-Dawn-673530134)
+
+
+* Cosplay:
+    * [cosplay_1](https://www.kamuicosplay.com/2017/09/15/aloy/)
+
+    * [cosplay_2](https://twitter.com/Aurora_Yulia/status/1146512824941842432/photo/1)
+
+
 
 **Special thanks:**
 * My Yoda-mentor [Simen Daehlin](https://github.com/Eventyret) for being there when I lost my way and didnt know how to get back and for showing me a README file I actually understood and could use (Geomint; you rock!) and just the kick-ass person he is! (even tho you are horde!).
