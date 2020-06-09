@@ -15,7 +15,6 @@
         * Fonts
         * Icons
         * Colours
-        * Images and Backgrounds
 * Technologies 
 * Features 
     * Features that have been developed
@@ -25,12 +24,13 @@
 * Deployment
 * Credit
 
-## **UX (User Experience)** ##  
+## **UX (User Experience):** ##  
 ---
-### Project Goals ### 
+### Project Goals: ### 
+
 <p>The goal for this project is to make people aware of the importance of strong female playable characters in video games, specifically about how Aloy, the playable female character from 'Horizon Zero Dawn', a video game launched in 2017, has changed the landscape for female playable characters forever, at least for me!
 
-### User Goals ###
+### User Goals: ###
 
 * Find information about the presence of female playable characters in video games.
 * Find information about the character of Aloy.
@@ -39,7 +39,7 @@
 * Contact the site owner through options given with radio buttons for clarification on why a user contacts the site owner.
 * Why it is important to have 'healthy' rolemodels instead of bare-naked ladies who have no storylines of any substance.
 
-### User Stories ###
+### User Stories: ###
 
 * As a user, I want an attractive and informative website so I will be educated and entertained.
 
@@ -49,13 +49,13 @@
 
 * As I user, I want to see data about the presence of female playable characters in videogames, so I can use the data for personal goals.
 
-### Site Owner Goals ###
+### Site Owner Goals: ###
 
 * As a site owner, I want to inform and educate my users about how important it is to have female playable characters in video games. My love for Aloy and the game 'Horizon Zero Dawn' will make the user aware about the vast differences in appearances and storylines regarding female playable characters and particulary why Aloy is the kick-ass heroin we all need!
 
 * I want to be able to connect with my users if they have any questions or would like to talk about adding additional content.
 
-### User Requirements and Expectations ###
+### User Requirements and Expectations: ###
 
 **Requirements:**
 * Navigate the website using the navbar.
@@ -69,20 +69,20 @@
 * Working 'Read More' buttons to avoid big lumps of clustered text.
 * Visually appealing data from external sources.
 
-### Design Choices ###
+### Design Choices: ###
 ---
 When designing this website, I looked for the designs used bij Guerilla Games and added my personal touch. I wanted it to breath the look and feel of the [Horizon Zero Dawn](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/) website, so it feels familiar for user who know the game and at the same time I wanted to try and entice other users to wanting to play the game themselves.
 
-**Fonts**
+**Fonts:**
 
 I originally intended to use the fonts that Guerilla games used as well, but found out pretty quickly that those fonts where designed specifically for them. So I looked for fonts that had as strong as a resemblance to the original fonts as possible.
 I picked [Quicksand](https://fonts.google.com/specimen/Quicksand?category=Sans+Serif&preview.text=&preview.text_type=custom&query=quick) for the headers and titels and [Raleway](https://fonts.google.com/specimen/Raleway?category=Sans+Serif&preview.text=&preview.text_type=custom&query=ralewa) for text.
 
-**Icons**
+**Icons:**
 
 Icons used where provided by [Font Awesome](https://fontawesome.com/), used in moderation and are self explanatory.
 
-**Colours**
+**Colours:**
 
 The colours that are used are mainly the colours that Horizon Zero Dawn uses. 
 
