@@ -162,7 +162,9 @@ Here are some I encountered, with the solution.
     * Removed a from target tag.
 * Possible misuse of aria-label:
     * Moved aria-label and rel from the i tag to the a tag, where they belong.
-
+* Navbar links not collapsing on click on mobile:
+    * Trying some js for this.
+    
 ## Deployment: ##
 ---
 Aloy: from Outcast to Heroin was developed on GitPod, using git and GitHub to host the repository.
