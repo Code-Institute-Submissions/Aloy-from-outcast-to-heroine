@@ -113,7 +113,7 @@ h3 {
 .jumbotron-hero-home  {
     border: 1px solid #37343d;
     border-radius: 10px;
-    background: rgba(255,255,255,0.6);
+    background: rgba(255,255,255,0.8);
     padding: 1rem 1rem;
     justify-content: center;
     align-items: center;
@@ -123,7 +123,7 @@ h3 {
 .jumbotron-protagonists  {
     border: 1px solid #37343d;
     border-radius: 10px;
-    background: rgba(255,255,255,0.6);
+    background: rgba(255, 255, 255, 0.8);
     padding: 1rem 1rem;
     justify-content: center;
     align-items: center;
@@ -181,9 +181,10 @@ img {
         transform:none;
     }
 }
-
+/*
 * {
   background: #000 !important;
   color: #0f0 !important;
   outline: solid #f00 1px !important;
 }
+*/
