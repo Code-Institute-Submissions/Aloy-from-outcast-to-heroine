@@ -53,8 +53,8 @@ h3 {
 }
 .navbar-brand {
     display: flex;
-    padding-top: px;
-    padding-bottom: px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     margin-right: 1rem;
     font-size: 4rem;
     line-height: inherit;
@@ -118,6 +118,7 @@ h3 {
     justify-content: center;
     align-items: center;
     position: absolute;
+    margin-right: 1rem;
 }
 .jumbotron-protagonists  {
     border: 1px solid #37343d;
@@ -127,6 +128,7 @@ h3 {
     justify-content: center;
     align-items: center;
     position: absolute;
+    margin-right: 1rem;
 }
 .jumbotron {
     background: rgba(255, 255, 255, 0.473);
