@@ -7,6 +7,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-size: 62.5%;
     scroll-behavior: smooth;
+    overflow: scroll;
 }
 a {
     color: #37343d;
@@ -134,7 +135,7 @@ h3 {
     background: rgba(255, 255, 255, 0.473);
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding: 0;
+    padding: 0px;
 }
 
 /* Images styling */
@@ -181,10 +182,3 @@ img {
         transform:none;
     }
 }
-/*
-* {
-  background: #000 !important;
-  color: #0f0 !important;
-  outline: solid #f00 1px !important;
-}
-*/

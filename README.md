@@ -153,7 +153,7 @@ Here are some I encountered, with the solution.
 * Rows to close to each other:
     * Set margins and padding.
 * Content not centering on mobile:
-    * Margin and padding (not completely resolved).      
+    * Set margin and padding.      
 
 
 **From validation/testing:**
@@ -166,6 +166,16 @@ Here are some I encountered, with the solution.
     * Moved aria-label and rel from the i tag to the a tag, where they belong.
 * Navbar links not collapsing on click on mobile:
     * Trying some js for this.
+
+**From peer code review:**
+
+* Overflow:
+    * Changed margins and padding on multiple elements and removed hover effect on img to prevent overflow.
+* Navbar not hiding on click:   
+    * js fixed the job :)
+* Changed opacity on jumbotrons as some people found it hard to read.
+*     
+
     
 ## Deployment: ##
 ---
