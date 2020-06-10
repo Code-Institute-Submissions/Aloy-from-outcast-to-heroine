@@ -175,4 +175,13 @@ img {
     .jumbotron-protagonists {
         height: fit-content;
     }
+    .myHover:hover {
+        transform:none;
+    }
+}
+
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
 }
