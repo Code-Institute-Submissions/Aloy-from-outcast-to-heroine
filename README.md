@@ -222,28 +222,28 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 
 General:
 
-* [Aloy stormbird](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-video-game-aloy-boogschutter-meisje--dt_nl-20619.html)
+* [aloy-stormbird](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-video-game-aloy-boogschutter-meisje--dt_nl-20619.html)
 
-* [Aloy birds eye view](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-female-protagonist--dt_nl-20298.html)
+* [aloy-birds-eye-view](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-female-protagonist--dt_nl-20298.html)
 
-* [Aloy thunderjaw](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-en-de-dinosaurus-van-de-robot-dt_nl-19651.html)
+* [aloy-thunderjaw](https://www.besthdwallpaper.com/spellen/horizon-zero-dawn-aloy-en-de-dinosaurus-van-de-robot-dt_nl-19651.html)
 
-* [Aloy snapmaw](https://psmedia.playstation.com/is/image/psmedia/horizon-zero-dawn-screen-31-ps4-eu-20oct16?$MediaCarousel_Original$) 
+* [aloy-snapmaw](https://psmedia.playstation.com/is/image/psmedia/horizon-zero-dawn-screen-31-ps4-eu-20oct16?$MediaCarousel_Original$) 
 
-* [Aloy frozen wilds](https://i.kinja-img.com/gawker-media/image/upload/ncwwmdyfcvfhpqbskhnm.png)
+* [aloy-frozen-wilds](https://i.kinja-img.com/gawker-media/image/upload/ncwwmdyfcvfhpqbskhnm.png)
 
 Images for Art section:
 
 * Fan Art:
-    * [fan_art_1](https://www.deviantart.com/nikusenpai/art/Horizon-Wallpaper-686563046)
+    * [fanart-1](https://www.deviantart.com/nikusenpai/art/Horizon-Wallpaper-686563046)
 
-    * [fan_art_2](https://www.deviantart.com/kalasketch/art/Aloy-Horizon-Zero-Dawn-673530134)
+    * [fanart-2](https://www.deviantart.com/kalasketch/art/Aloy-Horizon-Zero-Dawn-673530134)
 
 
 * Cosplay:
-    * [cosplay_1](https://www.kamuicosplay.com/2017/09/15/aloy/)
+    * [cosplay-1](https://www.kamuicosplay.com/2017/09/15/aloy/)
 
-    * [cosplay_2](https://twitter.com/Aurora_Yulia/status/1146512824941842432/photo/1)
+    * [cosplay-2](https://twitter.com/Aurora_Yulia/status/1146512824941842432/photo/1)
 
 Images for Protagonists section:
 
