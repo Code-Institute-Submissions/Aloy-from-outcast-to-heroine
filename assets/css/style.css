@@ -53,8 +53,8 @@ h3 {
 }
 .navbar-brand {
     display: flex;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     margin-right: 1rem;
     font-size: 4rem;
     line-height: inherit;
