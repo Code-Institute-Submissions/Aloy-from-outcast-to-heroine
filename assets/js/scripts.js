@@ -1,5 +1,7 @@
-
-// js provided by Eventyret_mentor from Slack, modified for own use
-    $('.navbar-nav>li, .navbar-brand, .nav-link').on('click', function(){
-        $('.navbar-collapse').collapse('hide');
-    });
+/**
+* Code gotten from my Mentor
+* Simen Daehlin / Eventyret_Mentor
+/*
+$('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
