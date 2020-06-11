@@ -100,7 +100,10 @@ For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This pro
 
 <p>View my wireframes <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes">here.</a></p>
 <p>To be more precise:</p>
-* 
+
+* <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/wireframes/aloy-desktop.pdf">Desktop Wireframe</a>
+* <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/wireframes/aloy-tablet.pdf">Tablet Wireframe</a>
+* <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/wireframes/aloy-mobile.pdf">Mobile Wireframe</a>
 
 <details>
   <summary>What didnt make the cut and why:</summary>
@@ -110,7 +113,7 @@ For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This pro
   
 </details>
 
-Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with only two menu links.
+Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with anchored links and sections.
 
 
 
