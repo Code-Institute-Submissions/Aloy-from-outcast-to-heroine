@@ -108,16 +108,17 @@ For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This pro
 Whilst building this project, I quickly noticed that my choice for a multiple page site, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with anchored links and sections.
 
 <details>
-  <summary>What didnt make the cut and why:</summary> 
+  <summary><strong>What didnt make the cut and why:</strong></summary> 
 As discussed earlier, my wireframes and the completed site are two different things. As this is my first project and I need to learn a lot about UI and UX, I quickly noticed that although things look nice in my mind and on paper,
 that doesnt necessarily means it works on screens.
-So for the one, a lot has changed, since ive decided that I would use a landingpage structure. The home page became the main focus, where the other pages ive drawn in the wireframes, became sections. The jumbotron was originally
+So, taking the <strong>desktop</strong> one as a leading example, a lot has changed, since I've decided that I would use a <strong>landingpage structure</strong>. The home page became the main focus, where the other pages ive drawn in the wireframes, became sections. The jumbotron was originally
 going to be in the right corner, but as I was building, I felt it would be more balanced if I made it centered. 
 At first I had a lot of problems wrapping my head around the mobile first perspective, which frustrated my core build in the beginning. Luckily thanks to a very patient mentor, I figured it out and things were a lot easier going forward.
 The about Aloy section originally contained four image sections and three with text. This became one text section and a slider for three images. Reasons being, people dont want to read long stretches of text and the demographic usually want
 to see more images then reading text. A 'Read More' button gives the user the ability to visit a page that contains more (in depth) text about that section. 
 Keeping things smaller also ment it was easier on the eyes on smaller screens. So for the art section (with the cosplay and fan art) I decided to use less images, less text with a 'Read More' button and decided to drop one image for 
-tablets and to stack that image with the text on mobile devices.
+tablets and to stack the remaining image with the text on mobile devices.
+
 
  
 </details>
@@ -153,6 +154,7 @@ tablets and to stack that image with the text on mobile devices.
 * [Bootstrap](https://getbootstrap.com/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google fonts](https://fonts.google.com/) 
+* [Gimp](https://www.gimp.org/)
 
 ## Testing: ##
 ---
@@ -166,6 +168,7 @@ Bugs, those pesky bugs:
 Here are some I encountered, with the solution.
 
 **During development:**
+
 * Jumbotron overflow:
     * Removed margins and padding and added height in media querie.
 * Columns not nicely spaced:
@@ -272,7 +275,7 @@ Images for Art section:
 
 Images for Protagonists section:
 
-The **hero image** used in the **protagonists** section was made by **myself** and **contains**:
+The **hero image** used in the **protagonists** section was made by **myself** using [gimp](https://www.gimp.org/) and **contains**:
 
 * Aloy; crops from images used on this site.
 
