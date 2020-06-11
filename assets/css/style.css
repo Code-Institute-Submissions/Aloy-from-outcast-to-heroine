@@ -192,6 +192,7 @@ img {
     .myHover:hover {
         transform:none;
     }
+/*Makes font awesome icons in footer smaller on smaller screensizes. Taken from font awesome website https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons*/    
     .fab {
         font-size: .75em;
     }
