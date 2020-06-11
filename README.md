@@ -105,15 +105,21 @@ For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This pro
 * <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/wireframes/aloy-tablet.pdf">Tablet Wireframe</a>
 * <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/wireframes/aloy-mobile.pdf">Mobile Wireframe</a>
 
+Whilst building this project, I quickly noticed that my choice for a multiple page site, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with anchored links and sections.
+
 <details>
   <summary>What didnt make the cut and why:</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+As discussed earlier, my wireframes and the completed site are two different things. As this is my first project and I need to learn a lot about UI and UX, I quickly noticed that although things look nice in my mind and on paper,
+that doesnt necessarily means it works on screens.
+So for the desktop one, a lot has changed, since ive decided that I would use a landingpage structure. The home page became the main focus, where the other pages ive drawn in the wireframes, became sections. The jumbotron was originally
+going to be in the right corner, but as I was building, I felt it would be more balanced if I made it centered. 
+At first I had a lot of problems wrapping my head around the mobile first perspective, which frustrated my core build in the beginning. Luckily thanks to a very patient mentor, I figured it out and things were a lot easier going forward.
+
 
   
 </details>
 
-Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with anchored links and sections.
+
 
 
 
