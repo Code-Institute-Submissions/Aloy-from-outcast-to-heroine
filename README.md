@@ -99,6 +99,16 @@ The colours that are used are mainly the colours that Horizon Zero Dawn uses.
 For wireframing I used [Pencil Prototyping](https://pencil.evolus.vn/). This produced some very basis mock ups, used to get an overall 'feel' for what would go where and how things would look on different screensizes.
 
 <p>View my wireframes <a href="https://github.com/byIlsa/Aloy-from-outcast-to-heroin/tree/master/wireframes">here.</a></p>
+<p>To be more precise:</p>
+* 
+
+<details>
+  <summary>What didnt make the cut and why:</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+
+  
+</details>
 
 Whilst building this project, I quickly noticed that my choice for multiple menu links, wasn't what my demographic wanted, so I decided to divert to a landingpage structure with only two menu links.
 
