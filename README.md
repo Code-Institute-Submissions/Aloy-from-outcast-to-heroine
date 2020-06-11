@@ -228,6 +228,9 @@ Copy the following code and input it into your terminal to clone Aloy: from Outc
 * Horizon Zero Dawn website: [link](https://www.playstation.com/nl-nl/games/horizon-zero-dawn-ps4/)
 * Text about Aloy Cosplay: [link](https://www.kamuicosplay.com/2017/09/15/aloy/)
 
+**For spoiler tags in this file:**
+* [Source](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
+
 **Images used:**
 
 General:
