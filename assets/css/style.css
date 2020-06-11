@@ -6,8 +6,11 @@ body {
     background-color: #fff;
     font-family: "Raleway", sans-serif;
     font-size: 62.5%;
-    scroll-behavior: smooth;
     overflow: scroll;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 a {
     color: #37343d;
@@ -119,12 +122,10 @@ h3 {
     border-radius: 10px;
     background: rgba(255,255,255,0.8);
     padding: 1rem 1rem;
-    justify-content: center;.nav-bg-color {
-    background-color:  #fff;
-    height: 80px;
-    padding: 2.6rem;
+    justify-content: center;
+   
 }
-}
+
 .jumbotron-protagonists  {
     border: 1px solid #37343d;
     border-radius: 10px;
