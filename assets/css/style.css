@@ -192,6 +192,9 @@ img {
     .myHover:hover {
         transform:none;
     }
+    .fab {
+        font-size: .75em;
+    }
 }
 /* For making navbar a bit smaller in height, so content is more visible when clicking anchor links*/
 @media (min-width: 992px) {
