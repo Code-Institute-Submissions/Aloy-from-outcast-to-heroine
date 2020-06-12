@@ -118,6 +118,8 @@ The about Aloy section originally contained four image sections and three with t
 to see more images then reading text. A 'Read More' button gives the user the ability to visit a page that contains more (in depth) text about that section. 
 Keeping things smaller also ment it was easier on the eyes on smaller screens. So for the art section (with the cosplay and fan art) I decided to use less images, less text with a 'Read More' button and decided to drop one image for 
 tablets and to stack the remaining image with the text on mobile devices.
+Female protagonist became protagonists section, also with a lot less text on the main page and Read More buttons just like the other sections.
+The contact form was place on the bottom of the page. 
 
 
  
