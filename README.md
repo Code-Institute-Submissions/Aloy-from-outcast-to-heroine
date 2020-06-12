@@ -188,7 +188,10 @@ and would attract people who dont know the game yet.
 
 * **Verdict:** Everything is working and looks good. So this test has <strong>passed.</strong>
 
- 
+**Contact form:**
+
+* **Implementation:** The contactform is used to contact the site owner. I got this form from the Bootstrap site and customized it to my own needs. Form validation was implemented at the same time, so users need to put in a value into every form field, before being able to push the 'Send' button. 
+As of now it is not possible to send the form, so iv'e used the formdump from code institute to generate a form of feedback for the user.
 
 
 
