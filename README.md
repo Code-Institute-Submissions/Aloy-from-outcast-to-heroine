@@ -153,6 +153,7 @@ The contact form was place on the bottom of the page.
 * [Google fonts](https://fonts.google.com/) 
 * [Gimp](https://www.gimp.org/)
 
+![Screens](assets/images/57825C33-84D9-4DB7-947F-29AD6F59D869.jpeg)
 ## Testing: ##
 ---
 First time testing. I used an online tool called [Lambdatest](https://www.lambdatest.com/) and the chromium dev tools for testing. I made an spreadsheet containing test results.
