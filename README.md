@@ -147,6 +147,7 @@ The contact form was place on the bottom of the page.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JS](https://nl.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries:**
 
@@ -161,9 +162,9 @@ The contact form was place on the bottom of the page.
 First time testing. I used an online tool called [Lambdatest](https://www.lambdatest.com/) and the chromium dev tools for testing. I made an spreadsheet containing test results.
 You can find this [here](https://github.com/byIlsa/Aloy-from-outcast-to-heroin/blob/master/wireframes/Screenshot%20from%202020-06-09%2010-58-17.png).
 
-Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was good.
+Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
 
-The HTML ive tested with [HTML Validator](https://validator.w3.org/) which gave me the following results:
+The HTML ive tested with [HTML Validator](https://validator.w3.org/) which gave me the following **results:**
 * Warning:
     * Navbar section lacks heading (changed section into div)
 * Errors:
@@ -177,7 +178,7 @@ The HTML ive tested with [HTML Validator](https://validator.w3.org/) which gave 
 * **Results:**    Responsiveness was as to be expected, exept for the navbar, which didnt collapse on click, which in turn, covered a big portion of the content. I was not happy.
                     Luckily my mentor gave me a JavaScript script, which solved the problem!            
 
-* **Verdict:**    After resolving the navbar issue, everything is responsive and the test has <strong>passed.</strong>
+* **Verdict:**    After resolving the navbar issue, everything is responsive and the test has **passed**.
 
 **Design:**
 
@@ -186,7 +187,7 @@ and would attract people who dont know the game yet.
 
 * **Results:** I feel the use of fonts and colors really add up to the content and make for a well balanced whole. I did change the opacity of the jumbotrons as some people told me the text was hard to read.
 
-* **Verdict:** Everything is working and looks good. So this test has <strong>passed.</strong>
+* **Verdict:** Everything is working and looks good. So this test has **passed**.
 
 **Contact form:**
 
@@ -195,11 +196,7 @@ As of now it is not possible to send the form, so for the time being there is no
 
 * **Results:** The contactform is working as intended, formfields are validated.
 
-* **Verdict**: Form validation works, so test <strong>passed.</strong>
-
-
-
-
+* **Verdict**: Form validation works, so test **passed**.
 
 ## Bugs: ##
 ---
