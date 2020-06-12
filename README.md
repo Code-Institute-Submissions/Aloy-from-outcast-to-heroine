@@ -177,7 +177,7 @@ The HTML ive tested with [HTML Validator](https://validator.w3.org/) which gave 
 * **Results:**    Responsiveness was as to be expected, exept for the navbar, which didnt collapse on click, which in turn, covered a big portion of the content. I was not happy.
                     Luckily my mentor gave me a JavaScript script, which solved the problem!            
 
-* **Verdict:**    After resolving the navbar issue, everything is responsive and the test has passed.
+* **Verdict:**    After resolving the navbar issue, everything is responsive and the test has <strong>passed.</strong>
 
 **Design:**
 
@@ -186,7 +186,7 @@ and would attract people who dont know the game yet.
 
 * **Results:** I feel the use of fonts and colors really add up to the content and make for a well balanced whole. I did change the opacity of the jumbotrons as some people told me the text was hard to read.
 
-* **Verdict:** Everything is working and looks good. So this test has passed.
+* **Verdict:** Everything is working and looks good. So this test has <strong>passed.</strong>
 
  
 
