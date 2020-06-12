@@ -263,7 +263,7 @@ Cloning Aloy: from Outcast to Heroine from GitHub:
 
 Copy the following code and input it into your terminal to clone Aloy: from Outcast tot Heroine.
 
-```git clone https://github.com/byIlsa/Aloy-from-outcast-to-hero```
+```git clone https://github.com/byIlsa/Aloy-from-outcast-to-heroine```
 
 ## Credits: ##
 ---
