@@ -232,8 +232,8 @@ Here are some I encountered, with the solution.
 * Navbar not hiding on click:   
     * js fixed the job :)
 * Changed opacity on jumbotrons as some people found it hard to read.
-*     
-
+* Images with hover effect where overlapping a bit. 
+    * Reduced the size of the hover.
     
 ## Deployment: ##
 ---
