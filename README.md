@@ -158,8 +158,34 @@ The contact form was place on the bottom of the page.
 
 ## Testing: ##
 ---
-First time testing. I used an online tool and the chromium dev tools for testing. I made an spreadsheet containing test results.
+First time testing. I used an online tool called [Lambdatest](https://www.lambdatest.com/) and the chromium dev tools for testing. I made an spreadsheet containing test results.
 You can find this [here](https://github.com/byIlsa/Aloy-from-outcast-to-heroin/blob/master/wireframes/Screenshot%20from%202020-06-09%2010-58-17.png).
+
+Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was good.
+
+The HTML ive tested with [HTML Validator](https://validator.w3.org/) which gave me the following results:
+* Warning:
+    * Navbar section lacks heading (changed section into div)
+* Errors:
+    * Attribute a not allowed on element a at this point (fixed)
+    * Possible misuse of aria-label (fixed, moved aria-label from button line to link line)
+
+**Responsiveness:**
+
+* **Implementation:**     Ive used Bootstrap throughout the project to ensure maximum responsibility. Ive tested with devtools and Lambdatest.
+
+* **Results:**    Responsiveness was as to be expected, exept for the navbar, which didnt collapse on click, which in turn, covered a big portion of the content. I was not happy.
+                    Luckily my mentor gave me a JavaScript script, which solved the problem!            
+
+* **Verdict:**    After resolving the navbar issue, everything is responsive.
+
+**Design:**
+
+* **Implementation:**   
+
+
+
+
 
 ## Bugs: ##
 ---
