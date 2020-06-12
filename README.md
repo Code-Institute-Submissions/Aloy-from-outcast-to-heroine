@@ -111,6 +111,7 @@ Whilst building this project, I quickly noticed that my choice for a multiple pa
   <summary><strong>What didnt make the cut and why:</strong></summary> 
 As discussed earlier, my wireframes and the completed site are two different things. As this is my first project and I need to learn a lot about UI and UX, I quickly noticed that although things look nice in my mind and on paper,
 that doesnt necessarily means it works on screens.
+The main title became one word, as to help with making the navbar look more balanced when on smaller screens and to give some space to the anchor links.
 So, taking the <strong>desktop</strong> one as a leading example, a lot has changed, since I've decided that I would use a <strong>landingpage structure</strong>. The home page became the main focus, where the other pages ive drawn in the wireframes, became sections. The jumbotron was originally
 going to be in the right corner, but as I was building, I felt it would be more balanced if I made it centered. 
 At first I had a lot of problems wrapping my head around the mobile first perspective, which frustrated my core build in the beginning. Luckily thanks to a very patient mentor, I figured it out and things were a lot easier going forward.
@@ -120,9 +121,6 @@ Keeping things smaller also ment it was easier on the eyes on smaller screens. S
 tablets and to stack the remaining image with the text on mobile devices.
 Female protagonist became protagonists section, also with a lot less text on the main page and Read More buttons just like the other sections.
 The contact form was place on the bottom of the page. 
-
-
- 
 </details>
 
 
