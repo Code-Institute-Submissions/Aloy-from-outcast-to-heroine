@@ -6,11 +6,12 @@ body {
     background-color: #fff;
     font-family: "Raleway", sans-serif;
     font-size: 62.5%;
-    overflow: scroll;
+    overflow-x: hidden;
 }
 
 html {
     scroll-behavior: smooth;
+    
 }
 a {
     color: #37343d;
@@ -37,6 +38,7 @@ h3 {
 .row{
     margin: 0;
     padding: 0;
+    
 }
 .section-titles {
     color:#37343d;
