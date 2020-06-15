@@ -64,8 +64,8 @@ h3 {
 }
 .navbar-brand {
     display: flex;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
     margin-right: 1rem;
     font-size: 4rem;
     line-height: inherit;
@@ -142,7 +142,7 @@ h3 {
     background: rgba(255, 255, 255, 0.473);
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding: 0px;
+    padding: 0;
 }
 
 /* Images styling */
@@ -171,7 +171,7 @@ img {
 }
 
 .form-control {
-    margin: 0px;
+    margin: 0;
 }
 .form-check-label {
     font-size: 1rem;
