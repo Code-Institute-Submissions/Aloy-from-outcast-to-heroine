@@ -123,7 +123,7 @@ tablets and to <strong>stack</strong> the remaining image with the text on mobil
 The <strong>contact</strong> form was place on the bottom of the page.
 </details>
 
-![Screens](assets/images/57825C33-84D9-4DB7-947F-29AD6F59D869.jpeg)
+![Screens](assets/images/screens.jpeg)
 
 ## Features ##
 ---
@@ -161,7 +161,7 @@ The <strong>contact</strong> form was place on the bottom of the page.
 ## Testing ##
 ---
 First time testing. I used an online tool called [Lambdatest](https://www.lambdatest.com/) and the chromium dev tools for testing. I made an spreadsheet containing test results.
-You can find this [here](https://github.com/byIlsa/Aloy-from-outcast-to-heroin/blob/master/wireframes/Screenshot%20from%202020-06-09%2010-58-17.png).
+You can find this [here](https://github.com/byIlsa/Aloy-from-outcast-to-heroin/blob/master/wireframes/testfile.png).
 
 Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
 
