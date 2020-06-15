@@ -86,7 +86,7 @@ h3 {
     color: #5983ff;
 }
 /* Button styling */
-.button, input, optgroup, select, textarea {
+.button {
     margin: 1rem;
 }
 
