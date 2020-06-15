@@ -118,7 +118,6 @@ h3 {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    
     background-color: #eae8e5; 
 }
 
@@ -170,7 +169,7 @@ img {
     margin-top: 1rem;
 }
 
-.myHover:hover {
+.hover:hover {
     transform: scale(1.1);
     transition-timing-function: ease-in-out;
     transition-duration: 1.2s;
@@ -196,7 +195,7 @@ img {
     margin-bottom: 1.2rem;
 }
 /* Footer */
-.footer-copyright {
+.footer-created {
     font-family: "Quicksand";
     font-size: 2rem;
 }
