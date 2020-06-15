@@ -1,12 +1,12 @@
 /* Google font import link */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@200;300;600;700&family=Raleway:&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;600;700&family=Raleway&display=swap');
 
 /* General body styling */
 
 html {
-    scroll-behavior: smooth;
-    
+    scroll-behavior: smooth; 
 }
+
 body {
     background-color: #fff;
     font-family: "Raleway", sans-serif;
@@ -25,6 +25,7 @@ a {
 p {  
     font-size: 1.5em; 
 }
+
 h3 {
     font-family: "Quicksand";
     font-size: 3.5rem;
@@ -33,27 +34,33 @@ h3 {
     text-align: center;
     color: #fff;
 }
+
 .bold-text {
     font-weight: 600;
 }
+
 .row {
     margin: 0;
     padding: 0;
     
 }
+
 .section-titles {
     color:#37343d;
 }
+
 .aloy-section-text {
     border: 1px #37343d;
     border-radius: 1rem;
 }
+
 .display-4 {
     font-family: "Quicksand";
     font-size: 2.5rem;
     font-weight: 200;
     line-height: 1.2;
 }
+
 .dotted {
   border-top: 2px dotted #37343d;
   margin-bottom: 1rem;
@@ -63,6 +70,7 @@ h3 {
 .nav-bg-color {
     background-color:  #fff;
 }
+
 .navbar-brand {
     display: flex;
     padding-top: 0;
@@ -73,19 +81,23 @@ h3 {
     white-space: nowrap;
     color:#37343d;   
 }
+
 .navbar-brand:hover {
     color: #5983ff;
 }
+
 .nav-link {
     display: inline-flex;
     justify-items: flex-end;
     padding: .5rem 1rem;
     font-size: 2rem;
 }
+
 .nav-link:hover {
     text-decoration: none;
     color: #5983ff;
 }
+
 /* Button styling */
 .button {
     margin: 1rem;
@@ -96,9 +108,9 @@ h3 {
     background-color: #5983ff;
     border-color: #5983ff;
 }
+
 /* Hero images styling */
 .hero-images {
-    background-color: #eae8e5; 
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -106,12 +118,15 @@ h3 {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    position: relative;
+    
+    background-color: #eae8e5; 
 }
+
 /* Hero images links */
 .hero-protagonists {
     background-image: url("../images/hero-image-prota.png");
 }
+
 .hero-home {
     background-image: url("../images/hero-image-aloy.jpg");
 }
@@ -136,6 +151,7 @@ h3 {
     position: absolute;
     margin-right: 1rem;
 }
+
 .jumbotron {
     background: rgba(255, 255, 255, 0.473);
     margin-top: 1rem;
@@ -153,11 +169,13 @@ img {
     box-shadow: 1rem 1rem 5px #37343d;
     margin-top: 1rem;
 }
+
 .myHover:hover {
     transform: scale(1.1);
     transition-timing-function: ease-in-out;
     transition-duration: 1.2s;
 }
+
 /* Progress bars */
 .progress-bar {
     background-color: #5983ff;
@@ -188,6 +206,7 @@ img {
     .jumbotron-protagonists {
         height: fit-content;
     }
+
 /* To prevent overflow on smaller screens */    
     .myHover:hover {
         transform:none;
@@ -203,4 +222,5 @@ img {
     height: 80px;
     padding: 2.6rem;
 }
+
 }
