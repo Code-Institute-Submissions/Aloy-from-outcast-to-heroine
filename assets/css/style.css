@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@200;300;600;700&family=Raleway:&display=swap');
 
 /*General body styling*/
+
+html {
+    scroll-behavior: smooth;
+    
+}
 body {
     background-color: #fff;
     font-family: "Raleway", sans-serif;
@@ -9,10 +14,6 @@ body {
     overflow-x: hidden;
 }
 
-html {
-    scroll-behavior: smooth;
-    
-}
 a {
     color: #37343d;
     font-size: 2rem;
@@ -20,9 +21,7 @@ a {
     background-color: transparent;
     font-family: "Quicksand", sans-serif;
 }
-.bold-text {
-    font-weight: 600;
-}
+
 p {  
     font-size: 1.5em; 
 }
@@ -34,7 +33,9 @@ h3 {
     text-align: center;
     color: #fff;
 }
-
+.bold-text {
+    font-weight: 600;
+}
 .row {
     margin: 0;
     padding: 0;
@@ -104,9 +105,7 @@ h3 {
     height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    
     background-size: cover;
     position: relative;
 }
