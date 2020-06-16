@@ -122,11 +122,15 @@ h2 {
 }
 
 /* Hero images links */
-.hero-protagonists {
+#protagonists {
     background-image: url("../images/hero-image-prota.png");
 }
 
-.hero-home {
+#home {
+    background-image: url("../images/hero-image-aloy.jpg");
+}
+
+#contact {
     background-image: url("../images/hero-image-aloy.jpg");
 }
 
@@ -181,9 +185,6 @@ img {
 }
 
 /* Contact form */
-.contact-bg {
-    background-image: url("../images/hero-image-aloy.jpg");
-}
 
 .form-control {
     margin: 0;
