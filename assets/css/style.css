@@ -4,7 +4,7 @@
 /* General body styling */
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 body {
@@ -22,8 +22,8 @@ a {
     font-family: "Quicksand", sans-serif;
 }
 
-p {  
-    font-size: 1.5em; 
+p {
+    font-size: 1.5em;
 }
 
 h2 {
@@ -42,11 +42,11 @@ h2 {
 .row {
     margin: 0;
     padding: 0;
-    
+
 }
 
 .section-titles {
-    color:#37343d;
+    color: #37343d;
 }
 
 .aloy-section-text {
@@ -62,13 +62,13 @@ h2 {
 }
 
 .dotted {
-  border-top: 2px dotted #37343d;
-  margin-bottom: 1rem;
+    border-top: 2px dotted #37343d;
+    margin-bottom: 1rem;
 }
 
 /* Nav bar styling */
 .nav-bg-color {
-    background-color:  #fff;
+    background-color: #fff;
 }
 
 .navbar-brand {
@@ -79,7 +79,7 @@ h2 {
     font-size: 4rem;
     line-height: inherit;
     white-space: nowrap;
-    color:#37343d;   
+    color: #37343d;
 }
 
 .navbar-brand:hover {
@@ -113,12 +113,12 @@ h2 {
 .hero-images {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     height: 75vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-color: #eae8e5; 
+    background-color: #eae8e5;
 }
 
 /* Hero images links */
@@ -135,16 +135,16 @@ h2 {
 }
 
 /* Jumbotrons styling */
-.jumbotron-hero-home  {
+.jumbotron-hero-home {
     border: 1px solid #37343d;
     border-radius: 1rem;
-    background: rgba(255,255,255,0.8);
+    background: rgba(255, 255, 255, 0.8);
     padding: 1rem 1rem;
     justify-content: center;
-   
+
 }
 
-.jumbotron-protagonists  {
+.jumbotron-protagonists {
     border: 1px solid #37343d;
     border-radius: 1rem;
     background: rgba(255, 255, 255, 0.8);
@@ -189,12 +189,15 @@ img {
 .form-control {
     margin: 0;
 }
+
 .form-check-label {
     font-size: 1rem;
 }
+
 .form-group {
     margin-bottom: 1.2rem;
 }
+
 /* Footer */
 .footer-created {
     font-family: "Quicksand";
@@ -202,25 +205,26 @@ img {
 }
 
 /* media queries */
-@media (max-width: 576px) { 
+@media (max-width: 576px) {
     .jumbotron-protagonists {
         height: fit-content;
     }
 
-/* To prevent overflow on smaller screens */    
+    /* To prevent overflow on smaller screens */
     .myHover:hover {
-        transform:none;
+        transform: none;
     }
- 
+
     .fab {
         font-size: .75em;
     }
 }
+
 /* For making navbar a bit smaller in height, so content is more visible when clicking anchor links */
 @media (min-width: 992px) {
     .nav-bg-color {
-    height: 80px;
-    padding: 2.6rem;
-}
+        height: 80px;
+        padding: 2.6rem;
+    }
 
 }
