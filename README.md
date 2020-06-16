@@ -213,7 +213,7 @@ Here are some I encountered, with the solution.
 **During development**
 
 * Jumbotron overflow:
-    * Removed margins and padding and added height in media querie.
+    * Removed margins and padding and added height in media query.
 * Columns not nicely spaced:
     * Set margins on top and bottoms.
 * Anchor link about ID not jumping to right place:
